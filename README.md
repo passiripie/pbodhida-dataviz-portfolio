@@ -10,14 +10,13 @@ This is my portfolio for Telling Stories with Data course at CMU!
 This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
 
 # About me
-Hi!  I really like data.  And I like visualizations.  So I guess you can say that I like data visualizations!
+Hello! I am Passiri Bodhidatta, or you can simply call me Pie. I am currently a 1st year MISM-BIDA student, and I have several years of experience working at a fintech company in Bangkok, Thailand. My areas of focus are data analytics and machine learning, and I am also building my data visualization skill through this course.
 
 # What I hope to learn
-All the things - obviously. Maybe I want to make a list of all the things.  If so, I can do so in Markdown like this: 
 
-1. List item #1
-2. List item #2
-3. List item #3
+- I have been doing data visualization during my undergraduate studies and my previous job, but joining this class makes me realize that I have so many things to improve. I hope I can learn how to make charts better communicate what I intend to, how to make it easier to percieve, and how to make it more visually aesthetic.
+- Besides learning about improving chart's components, I want to also learn how to summarize the most important insight to convey, like how to choose the most relevant piece of information from the big data. I find it difficult when you have a small amount of space with many information, so you need to learn how to prioritize.
+- Lastly, I hope to learn how to use some visualization tools, like Tableau, and also how to organize a porfolio on Github. I think it would be very useful for my future courseworks and jobs.
 
 or...
 
