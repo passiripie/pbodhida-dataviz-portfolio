@@ -18,12 +18,6 @@ Hello! I am Passiri Bodhidatta, or you can simply call me Pie. I am currently a 
 - Besides learning about improving chart's components, I want to also learn how to summarize the most important insight to convey, like how to choose the most relevant piece of information from the big data. I find it difficult when you have a small amount of space with many information, so you need to learn how to prioritize.
 - Lastly, I hope to learn how to use some visualization tools, like Tableau, and also how to organize a porfolio on Github. I think it would be very useful for my future courseworks and jobs.
 
-or...
-
-- List item #1
-- List item #2
-- List item #3
-
 # Portfolio
 
 # Examples
@@ -31,6 +25,7 @@ You can keep this section for stuff from in-class demos or your other work, or r
 
 ## Assignment: [Visualizing overnment Debt](visualizing-government-debt)
 For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `visualizing-government-debt.md`.  For links to Markdown files in your repository, you can just include the name of the page without the `.md` extension. 
+
 
 ## Assignment 3&4: [Critique by Design](critique-by-design)
 For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `critique-by-design.md`.  
