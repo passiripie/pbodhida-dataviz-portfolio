@@ -21,6 +21,9 @@ In my redesign, I want to focus on highlighting the changes in radiative forcing
 
 <img src="JPEG image-4DCA-9B74-0D-0.jpeg" width="1000"/>
 
+I decided that 'the radiative forcing hit 54% increase in 2024' will be my main focus to communicate for this redesign. Then, I considered doing the surplus/deficit style of stacked area chart to emphasize the change in radiative forcing relative to the reference point. This is mainly because I want to align the presentation with the AGGI definition, so I think the idea should revolve around comparisons to 1990. I decided to preserve the Radiative Forcing as vertical axis, retaining the original gas quantity information, and present AGGI index as annotations instead of an axis to reduce confusion. Because the chart shows the changes compared to 1990, I adjusted the vertical axis value to be incraeses/decreases of radiative forcing.
+
+I grouped the other gases besides CO2 and Methan (CH4) into the 'others' group, avoiding unnecessary details that makes the chart too complex. I also changed 'Methane' to 'CH4' for consistency with 'CO2'. I used 2 distinct colors to represent CO2 and CH4, and used grey for others to de-emphasize it. The gas names were placed at the end of the area, to reduce the need of legends and lower the eye movements. Lastly, I added the title to highlight my main idea, and also the subtitle to describe the AGGI definition.
 
 ## Step four: Test the solution
 
