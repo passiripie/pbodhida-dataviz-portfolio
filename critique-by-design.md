@@ -6,17 +6,20 @@
 
 The original visualization is from this academic article about the NOAA Annual Greenhouse Gas Index (AGGI): https://gml.noaa.gov/aggi/aggi.html
 
-
-
 <img src="aggi.fig3.png" width="1000"/>
 
+I chose this visualization because it contains multiple elements, such as 2 vertical axes, reference lines, legend, and annotation. I admired how the creator tried to communicate every aspects of information from the given data and added all elements mentioned, but this makes the chart very confusing. So, I find it challenging and exciting to redesign this chart. Moreover, I have never created a stacked area chart before, so I think this is a good opportunity for me to try working on that, and probably do something creative.
 
-_Include link to the original data visualization (or screenshot - make sure to correctly cite your sources, etc.).  Include paragraph or two on why you selected this particular data visualization.  For obvious reasons, the data visualization you select should come from a publicly accessible source._
 
 ## Step two: the critique
-_Don't forget to complete the Google Form found on the assignment page.  You can summarize your thoughts here._
+
+The visualization attempts to show the growth in radiative forcing compositions over time with a reference period, which is an interesting idea, and the area chart helps represent overall growth. However, the way AGGI and the reference line are presented makes it hard to understand the comparison between the reference period and other years. Some elements also reduce clarity, such as the lack of a title, unclear x-axis tick marks, inconsistent gas labels, and arbitrary color choices. Although the chart may still be readable for researchers or technically familiar audiences, it does not communicate the key insight clearly and does not reach its full potential.
+
+In my redesign, I want to focus on highlighting the changes in radiative forcing compared to the reference period. I am considering using a surplus/deficit style chart to show increases and decreases more clearly. I may still use an area chart but only for major gases like CO₂ and methane, grouping the rest as “others.” I also plan to remove the AGGI right axis and instead show AGGI as annotations for key years. Additionally, I want to improve the overall design by adding a clear title and subtitle, using more consistent labeling, and experimenting with lighter colors and outlines to make the visualization more visually pleasing and easier to read.
 
 ## Step three: Sketch a solution
+
+
 
 ## Step four: Test the solution
 
