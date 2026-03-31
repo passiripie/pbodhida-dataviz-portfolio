@@ -33,37 +33,13 @@ These are the feedbacks I got from interviewees
 |----------|-------------|-------------|-------------|
 |Can you describe to me what this is telling you?|Greenhouse gases increased from 1990|Greenhouse gases increased from 1990 + CO2 is the biggest component| Greenhouse gases increased from 1990 + CO2 is the biggest component|
 |Is there anything you find surprising or confusing?|I am not sure where 54% is in the chart | I think the red color of CO2 seems alarming, is it intentional? | The y-axis shows the absoluate value of radiative forcing, or the changes?|
-|          |             |             |             |
-
-
-_Before you conduct your interviews, prepare a simple script.  Use this as a guide and as a way to take notes as you go forward. Come up with your own list of questions you want to ask for the selected visualization. Keep the questions broad so you can get the most value out of your feedback. Then, document answers to your questions here._
-
-Questions to ask (modify these for your own interviews): 
-
-- Can you tell me what you think this is?
-
-- Can you describe to me what this is telling you?
-
-- Is there anything you find surprising or confusing?
-
-- Who do you think is the intended audience for this?
-
-- Is there anything you would change or do differently?
-
-Results: 
-
-_Don't identify or share personally identifiable information (PII) about the people you spoke to._
-
-
-| Question | Interview 1 | Interview 2 |
-|----------|-------------|-------------|
-|          |             |             |
-|          |             |             |
-|          |             |             |
+|Who do you think is the intended audience for this?          | reserachers             | students, environmentalists           | researchers, students            |
+|Is there anything you would change or do differently?         | No, after I read the AGGI definition, I understood how 54% increase is related, I also think the red annotations stand out well, however, I think the color legend will work better than the current gas labels  | It should use colors that are neutral, not suggesting good nor bad | The y-axis label should say that it's the change in radiative forcing  |
 
 Synthesis: 
+Overall, I think the readers get the main idea that the chart communicates, that the greenhouse gases have increased significantly from 1990. I learned that the stacked area works well to show the greengas components, and the surplus/deficit style presents the main idea very well. There're still some confusing elements, such as colors and axis labels, that should be fixed. I will try to use neutral colors for gas components, and fix the y-axis label. As for adding the legend, I am not sure because I want to limit the eye movement, although I admit that the current design may make it hard to see the gas names. I will see what I can do in Tableau.
 
-_What patterns in the feedback emerge?  What did you learn from the feedback?  Based on this feedback, come up with what design changes you think might make the most sense in your final redesign._
+
 
 ## Step five: build the solution
 
