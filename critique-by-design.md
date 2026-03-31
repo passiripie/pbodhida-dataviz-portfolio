@@ -19,6 +19,7 @@ In my redesign, I want to focus on highlighting the changes in radiative forcing
 
 ## Step three: Sketch a solution
 
+<img src="JPEG image-4DCA-9B74-0D-0.jpeg" width="1000"/>
 
 
 ## Step four: Test the solution
