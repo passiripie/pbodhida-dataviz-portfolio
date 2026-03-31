@@ -29,9 +29,10 @@ I grouped the other gases besides CO2 and Methan (CH4) into the 'others' group, 
 
 These are the feedbacks I got from interviewees
 
-| Question | Interview 1 | Interview 2 | Interview 3 | 
-|----------|-------------|-------------|-------------|
-|Can you describe to me what this is telling you?         |             |             |             |
+| Question                                                 | Interview 1 | Interview 2 | Interview 3 | 
+|----------                                                |-------------|-------------|-------------|
+|Can you describe to me 
+what this is telling you?          | Greenhouse gases increased from 1990  |  Greenhouse gases increased from 1990 + CO2 is the biggest component      |             |
 |          |             |             |             |
 |          |             |             |             |
 
