@@ -8,7 +8,7 @@ The original visualization is from this academic article about the NOAA Annual G
 
 
 
-<img src="aggi.fig3.png" width="200"/>
+<img src="aggi.fig3.png" width="1000"/>
 
 
 _Include link to the original data visualization (or screenshot - make sure to correctly cite your sources, etc.).  Include paragraph or two on why you selected this particular data visualization.  For obvious reasons, the data visualization you select should come from a publicly accessible source._
