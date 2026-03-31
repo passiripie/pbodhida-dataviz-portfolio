@@ -52,13 +52,12 @@ Overall, I think the readers get the main idea that the chart communicates, that
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
 
+First, I created new calculated fields (changes relative to 1990) and used a stacked area chart. I noticed that when using the change, not the original quantity, CH4 area was too small to show. So, I decided to only do CO2 and Others. Secondly, I fixed all issues mentioned in the previous section (colors and axis labels), and I also changed the AGGI describtion color to red, so it'd be easier to read and associate with AGGI annotations in the chart area. Lastly, I could not find a way to move the x-axis to the 0 line of y-axis. So, I drew a dash line at 1990 to make the reference point more obvious.
 
+In summary, I think the critique step is very helpful in organizing thoughts about aspects of the visualization, so we really think through every aspect. The sketching step is also very important to freely express your idea, unlike jumping to use the program which may limit your creativity. The testing step is crucial to get feedbacks, because even when we think carefully about our visualizations, there probably are some elements that we missed, and those can only be detected by critiques from other readers. 
 
-_Include and describe your final solution here. It's also a good idea to summarize your thoughts on the process overall. When you're done with the assignment, this page should all the items mentioned in the assignment page on Canvas(a link or screenshot of the original data visualization, documentation explaining your process, a summary of your wireframes and user feedback, your final, redesigned data visualization, etc.)._
 
 ## References
-_List any references you used here._
+The visualizations source: https://gml.noaa.gov/aggi/aggi.html
 
-## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
 
