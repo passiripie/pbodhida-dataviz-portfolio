@@ -9,7 +9,6 @@ Social media accounts increasingly function as long-term digital identities, pre
 
 This topic is important because most users do not consider what happens to their digital presence after death. Deceased accounts continue to store personal information, photos, and interactions, raising questions about privacy, data ownership, and platform responsibility. Through data visualization, I aim to show the potential scale of this issue and increase awareness about digital legacy planning. The project will conclude by encouraging users to think about managing their online presence and understanding how their data may persist beyond their lifetime.
 
-> A project structure that outlines the major elements of your story.  Your Good Charts text talks about story structure in Chapter 8 - you should describe what you hope to achieve.  Make sure the outline is detailed enough that we can see how you anticipate your story unfolding.  You can incorporate your Story Arc from the in-class exercise along with your user stories and one sentence summary to make the topic even more clear.
 ## One-Sentence Summary
 As Facebook users age, the number of deceased accounts will grow, raising important questions about digital legacy and ownership of personal data after death.
 ## User Story
@@ -23,7 +22,7 @@ I can do this by reviewing my social media account settings, assigning a legacy 
 4. Why this matters: Connect to digital legacy and privacy
 5. Call to Action: Actionable takeaways
 
-Text here...
+<img src="image-4057-93B4-9D-0.jpeg" width="100"/>
 
 ## Initial sketches
 > Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
