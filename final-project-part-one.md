@@ -4,11 +4,13 @@
 > Important note: this template includes major elements of Part I, but the instructions on Canvas are the authoritative source.  Make sure to read through the assignment page and review the rubric to confirm you have everything you need before submitting.  When done, delete these instructions before submitting.
 
 # Outline
-> Include a high-level summary of your project.  This should be a couple paragraphs that describe what you're interested in showing with your final project. 
  
-Text here...
+Social media accounts increasingly function as long-term digital identities, preserving personal memories, interactions, and data over many years. As Facebook users age and remain on the platform, a growing number of accounts will eventually belong to deceased individuals. This project explores how demographic trends and mortality projections may lead to a significant increase in deceased Facebook accounts and what that means for digital legacy and personal data ownership.
 
-> A project structure that outlines the major elements of your story.  Your Good Charts text talks about story structure in Chapter 8 - you should describe what you hope to achieve.  Make sure the outline is detailed enough that we can see how you anticipate your story unfolding.  You can incorporate your Story Arc from the in-class exercise along with your user stories and one sentence summary to make the topic even more clear. 
+This topic is important because most users do not consider what happens to their digital presence after death. Deceased accounts continue to store personal information, photos, and interactions, raising questions about privacy, data ownership, and platform responsibility. Through data visualization, I aim to show the potential scale of this issue and increase awareness about digital legacy planning. The project will conclude by encouraging users to think about managing their online presence and understanding how their data may persist beyond their lifetime.
+
+> A project structure that outlines the major elements of your story.  Your Good Charts text talks about story structure in Chapter 8 - you should describe what you hope to achieve.  Make sure the outline is detailed enough that we can see how you anticipate your story unfolding.  You can incorporate your Story Arc from the in-class exercise along with your user stories and one sentence summary to make the topic even more clear.
+
 
 Text here...
 
