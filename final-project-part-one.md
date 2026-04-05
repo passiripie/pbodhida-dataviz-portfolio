@@ -22,7 +22,7 @@ I can do this by reviewing my social media account settings, assigning a legacy 
 4. Why this matters: Connect to digital legacy and privacy
 5. Call to Action: Actionable takeaways
 
-<img src="JPEG image-4057-93B4-9D-0.jpeg" width="200"/>
+<img src="JPEG image-4057-93B4-9D-0.jpeg" width="500"/>
 
 ## Initial sketches
 > Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
