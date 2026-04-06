@@ -44,7 +44,7 @@ To estimate the percentage of Facebook accounts that may belong to deceased user
 |      |     |             |
 
 # Method and medium
-I plan to use Tableau for generating data visuaulizatons, and Shorthand for story-telling presentation.
+I plan to use Tableau for generating data visualizatons, and Shorthand for story-telling presentation.
 
 
 ## References
