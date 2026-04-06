@@ -1,8 +1,5 @@
 | [home page](https://passiripie.github.io/pbodhida-dataviz-portfolio/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-
-> Important note: this template includes major elements of Part I, but the instructions on Canvas are the authoritative source.  Make sure to read through the assignment page and review the rubric to confirm you have everything you need before submitting.  When done, delete these instructions before submitting.
-
 # Outline
  
 Social media accounts increasingly function as long-term digital identities, preserving personal memories, interactions, and data over many years. As Facebook users age and remain on the platform, a growing number of accounts will eventually belong to deceased individuals. This project explores how demographic trends and mortality projections may lead to a significant increase in deceased Facebook accounts and what that means for digital legacy and personal data ownership.
@@ -35,7 +32,6 @@ This project will use two main datasets: Facebook user demographics by age group
 
 To estimate the percentage of Facebook accounts that may belong to deceased users in the next ten years, I will multiply the share of Facebook users in each age group by the estimated 10-year mortality rate for that group. The contributions across all age groups will then be summed to produce an overall estimate. This approach allows me to visualize both the total projected share of deceased accounts and the relative contribution of each age group. The resulting visualizations will support the project’s goal of raising awareness about digital legacy and the persistence of personal data after death.
 
-> A link to the publicly-accessible datasets you plan on using, or a link to a copy of the data you've uploaded to your Github repository, Box account or other publicly-accessible location. Using a datasource that is already publicly accessible is highly encouraged.  If you anticipate using a data source other than something that would be publicly available please talk to me first. 
 
 | Name | URL | Description |
 |------|-----|-------------|
