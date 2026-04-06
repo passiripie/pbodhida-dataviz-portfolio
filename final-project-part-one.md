@@ -27,7 +27,9 @@ I can do this by reviewing my social media account settings, assigning a legacy 
 ## Initial sketches
 > Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
 
-Text here...
+<img src="JPEG image-4FDB-A015-4B-0.jpeg" width="700"/>
+
+These are 2 main charts, and I also plan to include information about mortality rates too, but still not sure about the format.
 
 # The data
 > A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
