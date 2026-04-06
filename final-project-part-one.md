@@ -31,25 +31,24 @@ I can do this by reviewing my social media account settings, assigning a legacy 
 These are 2 main charts, and I also plan to include information about mortality rates too, but still not sure about the format.
 
 # The data
-> A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
+This project will use two main datasets: Facebook user demographics by age group and mortality rates by age. Facebook user distribution by age group will be obtained from publicly available demographic statistics such as Statista and Pew Research Center. Mortality data by age will be obtained from Our World in Data, which compiles demographic statistics from international sources. The dataset provides annual probability of death across age groups. I will approximate a 10-year mortality rate for each Facebook age group by converting annual mortality probabilities into cumulative probabilities over a 10-year period. These mortality rates will then be matched to the corresponding Facebook age groups.
 
-Text here...
+To estimate the percentage of Facebook accounts that may belong to deceased users in the next ten years, I will multiply the share of Facebook users in each age group by the estimated 10-year mortality rate for that group. The contributions across all age groups will then be summed to produce an overall estimate. This approach allows me to visualize both the total projected share of deceased accounts and the relative contribution of each age group. The resulting visualizations will support the project’s goal of raising awareness about digital legacy and the persistence of personal data after death.
 
 > A link to the publicly-accessible datasets you plan on using, or a link to a copy of the data you've uploaded to your Github repository, Box account or other publicly-accessible location. Using a datasource that is already publicly accessible is highly encouraged.  If you anticipate using a data source other than something that would be publicly available please talk to me first. 
 
 | Name | URL | Description |
 |------|-----|-------------|
-|      |     |             |
-|      |     |             |
+|Statista Facebook age distribution |https://www.statista.com/statistics/187549/facebook-distribution-of-users-age-group-usa/     | Distribution of Facebook users by age group            |
+|Our World in Data – Probability of dying by age |https://ourworldindata.org/grapher/probability-of-dying-by-age     | This dataset provides annual probability of death for each age group, expressed as a fraction. |
 |      |     |             |
 
 # Method and medium
-> In a few sentences, you should document how you plan on completing your final project. 
+I plan to use Tableau for generating data visuaulizatons, and Shorthand for story-telling presentation.
 
-Text here...
 
 ## References
-_List any references you used here._
+Supporting methodology for mortality and life expectancy interpretation from Our World in Data: https://ourworldindata.org/life-expectancy
 
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+I used ChatGPT to help me with finding data sources and brainstorming on project structures.
