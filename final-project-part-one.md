@@ -24,8 +24,7 @@ I can do this by reviewing my social media account settings, assigning a legacy 
 
 <img src="JPEG image-4057-93B4-9D-0.jpeg" width="700"/>
 
-## Initial sketches
-> Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
+## Initial sketches 
 
 <img src="JPEG image-4FDB-A015-4B-0.jpeg" width="1000"/>
 
