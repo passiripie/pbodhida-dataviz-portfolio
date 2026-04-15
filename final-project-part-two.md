@@ -4,12 +4,10 @@
 
 https://carnegiemellon.shorthandstories.com/facebook-digital-legacy/index.html
 
-Text here!
 
 # User research 
 
 ## Target audience
-> Include your approach to identifying representative individuals, and who you hope to reach with your story.
 
 The primary audience for this project is general social media users, especially young adults whose parents or older relatives actively use Facebook. This group is particularly relevant because they are often the ones who may eventually need to manage or make decisions about accounts belonging to deceased family members.
 
@@ -23,10 +21,11 @@ Text here!
 
 | Goal | Questions to Ask |
 |------|------------------|
-|      |                  |
-|      |                  |
-|      |                  |
-
+|Understand awareness of digital legacy, to adjust the simplicity of the content     |Have you ever thought about what happens to your social media accounts after you pass away?                  |
+|Evaluate whether the narrative and story arc are clear and logically structured      | Did the overall flow of the story make sense to you, and was there any point where you felt confused or lost?               |
+|Assess whether the stacked bar chart effectively communicates the growth of deceased accounts without being misleading      | How did you interpret the stacked bar chart, and did it clearly show the increase in deceased accounts over time?                 |
+|Evaluate whether the color used to represent deceased accounts is appropriate and effectively draws attention      | How did the color used for deceased accounts affect your understanding of the chart, and did it feel noticeable or easy to overlook? (I previously used grey for deceased portion as I thought it aligns with the intuition of mortality)       |
+|Evaluate whether the color used to represent deceased accounts is appropriate and effectively draws attention      | Do you think managing the digital accounts of older family members is something important to you, and why or why not?     |
 
 Text here!
 
