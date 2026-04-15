@@ -48,7 +48,7 @@ Overall, I think my story arc is already fine from the first part. The main adju
 
 
 ## References
-I didn't use any external sources for this part in particular (sources I used in shorthands will be cited in the Shorthand presentation).
+I didn't use any external sources for this part in particular (sources I used in the Shorthand will be cited in the Shorthand presentation).
 
 ## AI acknowledgements
 I used ChatGPT to brainstorm and refine the interview questions.
