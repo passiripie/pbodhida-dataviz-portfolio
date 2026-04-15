@@ -25,9 +25,7 @@ To represent this audience, I focus on everyday users who are familiar with soci
 |Evaluate whether the color used to represent deceased accounts is appropriate and effectively draws attention      | Do you think managing the digital accounts of older family members is something important to you, and why or why not?     |
 
 ## Interview findings
-> Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
 
-Text here!
 
 | Questions               | Interview 1 (23 female) | Interview 2 (26 male) | Interview 3 (30 male) |
 |-------------------------|--------------------------------|-------------|-------------|
@@ -44,11 +42,10 @@ Text here!
 
 | Research synthesis                       | Anticipated changes for Part III                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
-| Findings or observations from interviews | Describe what, if any changes you anticipate making to address the observation. |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-| ...add more rows as necessary            |                                                                                 |
+| The introduction is not smoothly connected with the rest of the story |I will add how young people use Facebook less overtime to connect to the idea that Facebook accounts are aging |
+| Stacked bars are good, but the growing portion of deceased accounts are still a little confusing, also the grey color for deceased accounts doesn't work well                                         |   Only using 2 portions (active/deceased) for stacked bars and show the growth of deceased portion as a whole, using 1/5/10 years mark instead of 1/10/20 years, change grey color to another color|                          
+|The story arc is already great, but I may need to emphasize call to action more, highlighting how important for young adults to be awared of the access to their parents/older relatives' accounts when they are gone |  Emphasize this issue more in call to action and focus more in my presentation script
+
 
 > ...include any final thoughts you have here. 
 
