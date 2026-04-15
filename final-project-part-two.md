@@ -36,9 +36,6 @@ To represent this audience, I focus on everyday users who are familiar with soci
 |Do you think managing the digital accounts of older family members is something important to you, and why or why not? | I think it's important and something that I never thought about. I may need to learn about it for my future | My parents are using Facebook heavily. I think it's very important to be awared of the risk that comes with their accounts when they are gone|My mom is a heavy Facebook user. She posts a lot of my pictures and also my baby niece, even though some people are concerned about babies' privacy. I think it's super important for me to have access to my mom's account when she passes away, because there are so many memories and personal contents in there.   |
 
 # Identified changes for Part III
-> Document the changes you plan on implementing next week to address any issues identified.  
-
-Text here!
 
 | Research synthesis                       | Anticipated changes for Part III                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
@@ -46,19 +43,13 @@ Text here!
 | Stacked bars are good, but the growing portion of deceased accounts are still a little confusing, also the grey color for deceased accounts doesn't work well                                         |   Only using 2 portions (active/deceased) for stacked bars and show the growth of deceased portion as a whole, using 1/5/10 years mark instead of 1/10/20 years, change grey color to another color|                          
 |The story arc is already great, but I may need to emphasize call to action more, highlighting how important for young adults to be awared of the access to their parents/older relatives' accounts when they are gone |  Emphasize this issue more in call to action and focus more in my presentation script
 
+Overall, I think my story arc is already fine from the first part. The main adjustment is my stacked bar charts showing growth of deceased accounts that I needed to adjust many parts. Also, I learned from the user interviews that many young adults are not awared of this issue, while it is something that most of them probably encounter in their future. It gave me the idea of how to develop a stronger and more impactful storytelling. Lastly, I am satisfied with my topic and I am happy that this story is useful for friends in the class.
 
-> ...include any final thoughts you have here. 
 
-Text here!
-
-# Moodboards / personas
-> If you did this optional part, include details here.  Otherwise remove this section
-
-Text here!
 
 ## References
-_List any references you used here._
+I didn't use any external sources for this part in particular (sources I used in shorthands will be cited in the Shorthand presentation).
 
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+I used ChatGPT to brainstorm and refine the interview questions.
 
