@@ -22,7 +22,33 @@ In addition to the changes mentioned earlier, one key design decision was the ev
 
 Another important design learning came from user feedback. Initially, I used grey to represent deceased accounts, but interviewees found this confusing as it looked like background or less important information. Based on this, I adjusted the color to make it more distinguishable. I also incorporated scroll-based animation (scrollmation) in Shorthand to gradually reveal the growth of deceased accounts over time. This helped guide the audience through the data step by step, making the story more engaging and easier to follow.
 
+## References
+Facebook Data Statistics
+TechCrunch. (2012, August 22). How big is Facebook’s data? 2.5 billion pieces of content and 500 terabytes ingested every day. https://techcrunch.com/2012/08/22/how-big-is-facebooks-data-2-5-billion-pieces-of-content-and-500-terabytes-ingested-every-day/
 
+U.S. Teen social media usage
+Pew Research Center. (2024, December 12). Teens, social media and technology 2024. https://www.pewresearch.org/internet/2024/12/12/teens-social-media-and-technology-2024
+
+Share of Facebook users
+Statista. (n.d.). Distribution of Facebook users in the United States as of 2024, by age group. https://www.statista.com/statistics/187549/facebook-distribution-of-users-age-group-usa/
+
+Mortality rate
+United Nations Department of Economic and Social Affairs. (2024). World population prospects 2024. https://population.un.org/wpp/downloads?folder=Standard%20Projections&group=CSV%20format
+
+Digital Asset Awareness
+Burch Law. (2024). How to include digital assets in a will. https://burch-law.com/how-to-include-digital-assets-in-a-will/
+
+Facebook Legacy Contact Setup
+Meta Platforms. (n.d.). About legacy contacts on Facebook. Facebook Help Center. https://www.facebook.com/help/1568013990080948
+
+Images
+Plann. (n.d.). Person using smartphone application [Photograph]. Pexels. https://www.pexels.com/photo/person-using-smartphone-application-4549408/
+
+Lisa from Pexels. (n.d.). Collage photo collage [Photograph]. Pexels. https://www.pexels.com/photo/collage-photo-collage-3024995/
+
+Guiney, N. (2020, December 2). Person holding silver iPhone 6 [Photograph]. Unsplash. https://unsplash.com/photos/person-holding-silver-iphone-6-AFAJrekYoS8
+
+Dương Nhân. (n.d.). A woman is using a laptop computer with a green screen [Photograph]. Pexels. https://www.pexels.com/photo/a-woman-is-using-a-laptop-computer-with-a-green-screen-14841880/
 
 ## AI acknowledgements
 
