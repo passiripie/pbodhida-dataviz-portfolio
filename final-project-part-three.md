@@ -41,7 +41,7 @@ Burch Law. (2024). How to include digital assets in a will. https://burch-law.co
 Facebook Legacy Contact Setup
 Meta Platforms. (n.d.). About legacy contacts on Facebook. Facebook Help Center. https://www.facebook.com/help/1568013990080948
 
-###Image References
+### Image References
 Plann. (n.d.). Person using smartphone application [Photograph]. Pexels. https://www.pexels.com/photo/person-using-smartphone-application-4549408/
 
 Lisa from Pexels. (n.d.). Collage photo collage [Photograph]. Pexels. https://www.pexels.com/photo/collage-photo-collage-3024995/
