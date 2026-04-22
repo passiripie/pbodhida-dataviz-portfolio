@@ -18,27 +18,6 @@ Hello! I am Passiri Bodhidatta, or you can simply call me Pie. I am currently a 
 - Besides learning about improving chart's components, I want to also learn how to summarize the most important insight to convey, like how to choose the most relevant piece of information from the big data. I find it difficult when you have a small amount of space with many information, so you need to learn how to prioritize.
 - Lastly, I hope to learn how to use some visualization tools, like Tableau, and also how to organize a porfolio on Github. I think it would be very useful for my future courseworks and jobs.
 
-# Portfolio
-
-
-## Assignment: [Data Visualization Critique](data-visualization-critique)
-
-## Assignment: [Data Visualization #1](data-visualization-1)
-
-## Assignment: [Crafting for Clarity](crafting-for-clarity)
-
-## Assignment: [Visualizing overnment Debt](visualizing-government-debt)
-
-## Assignment 3&4: [Critique by Design](critique-by-design)
-
-## Assignment: [Choosing Chart Types](choosing-chart-types)
-
-## Final project
-
-[Part I](final-project-part-one)
-[Part II](final-project-part-two)
-[Part III](final-project-part-three)
-
 ---
 
 
