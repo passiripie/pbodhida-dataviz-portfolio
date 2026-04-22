@@ -5,31 +5,37 @@
 https://carnegiemellon.shorthandstories.com/facebook-digital-legacy/index.html
 
 # Changes made since Part II
-> Include few paragraphs that reflects on changes you made since the completion of Part II. 
+After completing Part II, I made several changes to improve clarity and focus. I removed the mortality rate visualization because it added too much complexity and distracted from the main narrative. I also redesigned the teen usage chart, replacing the dumbbell chart with a simple line graph using year as the x-axis. This made the trend much easier to read and more intuitive for the audience.
 
-Text here!
+I also strengthened the “why this matters” section by adding more compelling statistics about digital legacy awareness, making the topic feel more relevant. Finally, based on feedback, I included a brief tutorial on how to set a legacy contact on Facebook. This addition makes the project more actionable by giving the audience a clear step they can take, rather than just raising awareness.
+
+
 
 ## The audience
-> Talk about who you identified as the audience for your final data story.  Include any other information you've used that helped you narrow the focus (e.g. insights from your interviews, personas, etc.).  Note any specific adjustments you made to your final project to make it work for your audience.
 
-Text here!
+For my final data story, I targeted general social media users, with a particular focus on those who have parents or older relatives actively using Facebook. This focus came from my user interviews; one participant shared concerns about their parents frequently posting personal photos and information online. That insight helped me realize that digital legacy is not only an individual issue, but also something that affects families, especially across generations.
+
+Based on this, I adjusted my project to better resonate with this audience. I shifted the framing to highlight the relevance of the topic beyond the individual and incorporated this perspective into my call to action. In my presentation, I explicitly encourage the audience to start conversations with their parents or older relatives about managing digital accounts. This makes the project more relatable and actionable, especially for younger users who may not see the issue as immediately relevant to themselves.
 
 ## Final design decisions
-> You can specifically break out your design decisions here, or include it under *Changes made since Part II* and delete this section. Talk about the design decisions you had to make along the way, and reflect on anything in particular that stands out to you that you learned working through the process.  Include any other information that helps round out your data story. 
+In addition to the changes mentioned earlier, one key design decision was the evolution of how I visualized deceased accounts. In my initial draft, I used a pie chart for Facebook age distribution and an area chart to show the growth of deceased accounts. However, as I progressed to Part II, I realized that bar charts were more effective. A bar chart better represents age distribution, and using stacked bar charts for deceased accounts made the growth over time clearer and easier to compare. Keeping age groups consistent across both charts also helped create a stronger visual link, reducing the cognitive effort required for the audience to understand the relationship.
 
-Text here!
+Another important design learning came from user feedback. Initially, I used grey to represent deceased accounts, but interviewees found this confusing as it looked like background or less important information. Based on this, I adjusted the color to make it more distinguishable. I also incorporated scroll-based animation (scrollmation) in Shorthand to gradually reveal the growth of deceased accounts over time. This helped guide the audience through the data step by step, making the story more engaging and easier to follow.
 
-## References
-> **You should have already included detailed references on your Shorthand story** - if so, you do not need to list them twice, unless you used additional references for specific to your writeup. Use this section to capture any additional special notes or information necessary. If there is additional information for your shorthand readers that you've placed on this page, link from Shorthand to this page. Make sure to double-check that you aren't using copyright material and that you have added / updated any citations or other content that you used to create your data story.  Make sure you have cited external sources correctly.
+
 
 ## AI acknowledgements
-> If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here.
 
-Text here!
+For my final work, I used ChatGPT to help me search for the statistics in digital legacy awareness and teen usage in social media. I also use it to refine my final script to make it within around a minute. 
+
 
 # Final thoughts
-> You can summarize any final thoughts / reflections that don't fit well in the previous sections here.  How did it go?  What did you run out of time for, or wish you had a chance to revisit?  What were you most excited about?  Include any final reflections as you think they might help us understand your process.  If you already included such reflections elsewhere, you can delete this section. 
+I really enjoyed working with Shorthand. I had seen similar storytelling formats before but didn’t expect to create one myself, and it turned out to be more intuitive than I thought. It helped me think more about narrative flow and how to guide the audience step by step through the data.
 
-Text here!
+If I had more time, I would explore the mortality aspect in more depth. I think there is more that could be done to better quantify and explain it, especially with more precise modeling. I also didn’t originally plan to include teen usage data in my story, as it wasn’t part of my Part I draft. However, I realized that jumping directly into age distribution wasn’t strong enough to show that Facebook is aging. Adding the decline in teen usage helped strengthen the narrative and made the transition into the rest of the story much clearer.
+
+Overall, this process helped me better understand how to connect data, design, and storytelling into a more cohesive and engaging narrative.
+
+
 
 
